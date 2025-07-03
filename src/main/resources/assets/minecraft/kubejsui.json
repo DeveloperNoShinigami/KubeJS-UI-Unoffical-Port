@@ -1,0 +1,8 @@
+{
+	"screens": {
+		"some.example.package.ExampleScreen": "example_id"
+	},
+	"actions": {
+		"example": "dev.latvian.kubejs.ui.VanillaActions.EXAMPLE"
+	}
+}
